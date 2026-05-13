@@ -35,6 +35,7 @@ If it's already active when you log in, the clock is already running and you sho
 
 ---
 #### AMSI Bypass payloads
+- [Video](https://www.youtube.com/watch?v=7IF-cY3vg1c)
 ```
 https://github.com/LeonardoE95/yt-en/blob/main/src/2024-12-23-windows-privesc-amsi-bypass/content/notes.txt
 
