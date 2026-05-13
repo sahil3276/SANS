@@ -31,3 +31,14 @@ If it's already active when you log in, the clock is already running and you sho
 - ❌ But you can't take practice test #1 *before* activating the attempt.
 - ✅ Once activated, you have 120 days for everything: both practice tests + real exam.
 - 💡 Activate when you're roughly **2–3 weeks away from wanting to take practice #1**, not earlier.
+
+
+---
+#### AMSI Bypass payloads
+```
+https://github.com/LeonardoE95/yt-en/blob/main/src/2024-12-23-windows-privesc-amsi-bypass/content/notes.txt
+
+Search :
+3.1 Bypass #1
+3.2 Bypass #2
+```
